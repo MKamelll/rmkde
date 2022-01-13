@@ -1,0 +1,126 @@
+akonadi-calendar-lang akonadi-import-wizard akonadi-notes-lang akonadi-search
+  akregator ark ark-lang baloo5-file baloo5-file-lang baloo5-kioslaves
+  baloo5-kioslaves-lang baloo5-tools baloo5-tools-lang bluedevil5
+  bluedevil5-lang breeze5-decoration breeze5-style-lang breeze5-wallpapers
+  discover discover-backend-flatpak discover-backend-fwupd
+  discover-backend-packagekit discover-lang dolphin dolphin-part-lang
+  ffmpegthumbs gutenprint gwenview5 kactivitymanagerd-lang kaddressbook
+  kaddressbook-doc kate kcalc kcharselect kdav-lang kde-cli-tools5-lang
+  kdegraphics-thumbnailers kdelibs4support-lang kdenetwork-filesharing
+  kde-print-manager kfilemetadata5-lang kgamma5 kgamma5-lang khelpcenter5
+  khotkeys5-lang kimageformats kinfocenter5-lang kio-extras5 kipi-plugins
+  kitinerary kleopatra kmag kmail kmenuedit5-lang kmousetool knotes kompare
+  konsole konsole-part konsole-part-lang kontact kontactinterface-lang
+  konversation korganizer kpeople5-lang kross-lang kscreen5-lang
+  kscreen5-plasmoid kscreenlocker-lang ktexteditor-lang ktnef
+  kuserfeedback-imports kuserfeedback-lang kwalletd5-lang kwalletmanager5
+  kwallet-tools kwallet-tools-lang kwin5-lang kwrited5 libkdecorations2-5-lang
+  libKF5BalooEngine5-lang libKF5DNSSD5-lang libKF5Holidays5-lang
+  libKF5KHtml5-lang libKF5NotifyConfig5-lang libKF5Parts5-lang libKF5Pty5-lang
+  libKF5Su5-lang libKF5UnitConversion5-lang libkgantt-lang libkomparediff2-lang
+  libKPimItinerary5-lang libksane-lang libkscreen2-plugin libksysguard5-imports
+  libksysguard5-lang libKUserFeedbackWidgets1 libqt5-qtvirtualkeyboard
+  libqt5-qtvirtualkeyboard-hunspell mbox-importer milou5-lang MozillaFirefox
+  okular oxygen5-sounds paperkey patterns-base-x11_enhanced patterns-games-games
+  patterns-kde-kde_internet patterns-kde-kde_pim patterns-kde-kde_utilities
+  patterns-kde-kde_utilities_opt patterns-kde-kde_yast
+  phonon4qt5-backend-gstreamer phonon4qt5-lang phononsettings
+  phononsettings-lang pim-data-exporter pim-sieve-editor pinentry-qt5
+  plasma5-addons plasma5-addons-lang plasma5-desktop-emojier plasma5-disks
+  plasma5-integration-plugin-lang plasma5-pa plasma5-pa-lang plasma5-pk-updates
+  plasma5-pk-updates-lang plasma5-session-wayland plasma5-systemmonitor
+  plasma5-thunderbolt plasma5-workspace-lang plasma-framework-components
+  plasma-framework-lang plasma-nm5 plasma-nm5-lang plasma-nm5-openconnect
+  plasma-nm5-openvpn plasma-nm5-pptp polkit-kde-agent-5-lang powerdevil5-lang
+  qalculate-data sddm skanlite spectacle systemsettings5 systemsettings5-lang
+akonadi-calendar-lang akonadi-calendar-tools akonadi-import-wizard
+  akonadi-notes-lang akonadi-plugin-calendar akonadi-plugin-contacts
+  akonadi-plugin-kalarmcal akonadi-plugin-mime akonadi-search akregator ark
+  ark-lang baloo5-file baloo5-file-lang baloo5-imports baloo5-kioslaves
+  baloo5-kioslaves-lang baloo5-tools baloo5-tools-lang baloo5-widgets bluedevil5
+  bluedevil5-lang bluez-qt-udev breeze breeze5-cursors breeze5-decoration
+  breeze5-style breeze5-style-lang breeze5-wallpapers calendarsupport discover
+  discover-backend-flatpak discover-backend-fwupd discover-backend-packagekit
+  discover-lang dolphin dolphin-part dolphin-part-lang eventviews ffmpegthumbs
+  frameworkintegration-plugin freecell-solver-presets gmenudbusmenuproxy
+  gtk2-metatheme-breeze gtk3-metatheme-breeze gutenprint gwenview5 hack-fonts
+  ibus-dict-emoji incidenceeditor kactivities5-imports kactivitymanagerd
+  kactivitymanagerd-lang kaddressbook kaddressbook-doc kalarmcal kate
+  kate-plugins kcalc kcalutils kcharselect kcm_sddm kcm_sddm-lang kcm_tablet
+  kcm_tablet-lang kdav kdav-lang kde-cli-tools5 kde-cli-tools5-lang
+  kdegames-carddecks-default kdegraphics-thumbnailers kde-gtk-config5
+  kde-gtk-config5-gtk3 kdelibs4support kdelibs4support-lang
+  kdenetwork-filesharing kdepim-addons kdepim-runtime kde-print-manager kdialog
+  kfilemetadata5 kfilemetadata5-lang kgamma5 kgamma5-lang khelpcenter5 khotkeys5
+  khotkeys5-lang kimageformats kinfocenter5 kinfocenter5-lang kio_audiocd
+  kio-extras5 kio-fuse kipi-plugins kitemmodels-imports kitinerary kleopatra
+  kmag kmahjongg kmail kmail-account-wizard kmail-application-icons kmenuedit5
+  kmenuedit5-lang kmines kmousetool kmozillahelper knewstuff-imports knotes
+  kompare konsole konsole-part konsole-part-lang kontact kontactinterface-lang
+  konversation korganizer kpat kpeople5 kpeople5-lang kpkpass kquickcharts
+  kreversi kross kross-lang kscreen5 kscreen5-lang kscreen5-plasmoid
+  kscreenlocker kscreenlocker-lang ksshaskpass5 ksshaskpass5-lang ksudoku
+  ksysguardsystemstats-data ksystemstats5 ktexteditor ktexteditor-lang ktnef
+  kuserfeedback-imports kuserfeedback-lang kwalletd5 kwalletd5-lang
+  kwalletmanager5 kwallet-tools kwallet-tools-lang kwayland kwayland-integration
+  kwin5 kwin5-lang kwrited5 layer-shell-qt5 libAppStreamQt2
+  libblack_hole_solver1 libbreezecommon5-5 libcfitsio9 libchm0 libdjvulibre21
+  libdolphinvcs5 libeditorconfig0 libepub0 libfreecell-solver0 libgps29 libkcddb
+  libkColorPicker0 libkcompactdisc-lang libkdecorations2-5
+  libkdecorations2-5-lang libkdecorations2private9 libkdegames
+  libkdegames-qt5-imports libkdsoap2 libkerfuffle21 libKF5Activities5
+  libKF5ActivitiesStats1 libKF5AkonadiCalendar5 libKF5AkonadiNotes5
+  libKF5AlarmCalendar5 libKF5Baloo5 libKF5BalooEngine5 libKF5BalooEngine5-lang
+  libKF5CalendarEvents5 libKF5CalendarSupport5 libKF5CalendarUtils5 libKF5Cddb5
+  libKF5CompactDisc5 libKF5DAV5 libKF5DNSSD5 libKF5DNSSD5-lang libKF5EventViews5
+  libKF5Holidays5 libKF5Holidays5-lang libKF5IdleTime5 libKF5IncidenceEditor5
+  libKF5JS5 libKF5JSApi5 libKF5KDcraw5 libKF5KDEGames7 libKF5KDELibs4Support5
+  libKF5KExiv2-15_0_0 libKF5KHtml5 libKF5KHtml5-lang libKF5Kipi32_0_0
+  libKF5KMahjongglib5 libKF5KontactInterface5 libKF5MailCommon5
+  libKF5MailImporter5 libKF5MailImporterAkonadi5 libKF5MediaWiki5
+  libKF5ModemManagerQt6 libKF5NetworkManagerQt6 libKF5NotifyConfig5
+  libKF5NotifyConfig5-lang libKF5Parts5 libKF5Parts5-lang libKF5Plasma5
+  libKF5Pty5 libKF5Pty5-lang libKF5Runner5 libKF5Sane5 libKF5Screen7
+  libKF5Style5 libKF5Su5 libKF5Su5-lang libKF5Syndication5 libKF5ThreadWeaver5
+  libKF5Tnef5 libKF5UnitConversion5 libKF5UnitConversion5-lang libKGantt2
+  libkgantt-lang libkImageAnnotator0 libkioarchive5 libkipi-data libkmahjongg
+  libkolabxml1 libkomparediff2-5 libkomparediff2-lang
+  libKPimAddressbookImportExport5 libKPimGAPICalendar5 libKPimGAPIContacts5
+  libKPimGAPITasks5 libKPimImportWizard5 libKPimItinerary5
+  libKPimItinerary5-lang libKPimPkPass5 libksane-lang libkscreen2-plugin
+  libKScreenLocker5 libksieve libksieve5 libksysguard5 libksysguard5-imports
+  libksysguard5-lang libKSysGuardSystemStats1 libKUserFeedbackCore1
+  libKUserFeedbackWidgets1 libkwalletbackend5-5 libKWaylandServer5 libmarkdown2
+  libpackagekitqt5-1 libphonon4qt5 libpoppler-qt5-1 libproxy1-config-kde
+  libqaccessibilityclient-qt5-0 libqalculate22 libQt5Concurrent5
+  libQt5HunspellInputMethod5 libQt5NetworkAuth5 libqt5-qdbus libqt5-qtpaths
+  libqt5-qtvirtualkeyboard libqt5-qtvirtualkeyboard-hunspell libqt5-qtwayland
+  libQt5Script5 libQt5Sensors5 libQt5Sensors5-imports libQt5VirtualKeyboard5
+  libQt5WaylandCompositor5 libreoffice-qt5 libsvn_auth_kwallet-1-0
+  libxcb-cursor0 libxerces-c-3_2 libzip5 mailcommon mailimporter mbox-importer
+  metatheme-breeze-common milou5 milou5-lang mobipocket MozillaFirefox okular
+  oxygen5-sounds paperkey patterns-base-x11 patterns-base-x11_enhanced
+  patterns-games-games patterns-kde-kde patterns-kde-kde_games
+  patterns-kde-kde_internet patterns-kde-kde_multimedia patterns-kde-kde_office
+  patterns-kde-kde_pim patterns-kde-kde_plasma patterns-kde-kde_utilities
+  patterns-kde-kde_utilities_opt patterns-kde-kde_yast
+  phonon4qt5-backend-gstreamer phonon4qt5-lang phononsettings
+  phononsettings-lang pim-data-exporter pim-sieve-editor pinentry-qt5
+  plasma5-addons plasma5-addons-lang plasma5-applet-suse-prime
+  plasma5-defaults-openSUSE plasma5-desktop plasma5-desktop-emojier
+  plasma5-disks plasma5-integration-plugin plasma5-integration-plugin-lang
+  plasma5-pa plasma5-pa-lang plasma5-pk-updates plasma5-pk-updates-lang
+  plasma5-session plasma5-session-wayland plasma5-systemmonitor
+  plasma5-theme-openSUSE plasma5-thunderbolt plasma5-workspace
+  plasma5-workspace-branding-openSUSE plasma5-workspace-lang
+  plasma5-workspace-libs plasma-browser-integration
+  plasma-browser-integration-lang plasma-framework plasma-framework-components
+  plasma-framework-lang plasma-nm5 plasma-nm5-lang plasma-nm5-openconnect
+  plasma-nm5-openvpn plasma-nm5-pptp plasma-nm5-vpnc polkit-kde-agent-5
+  polkit-kde-agent-5-lang powerdevil5 powerdevil5-lang qalculate-data
+  qqc2-desktop-style sddm sddm-branding-openSUSE sddm-theme-openSUSE skanlite
+  sonnet-imports spectacle systemsettings5 systemsettings5-lang
+  xdg-desktop-portal-kde xdg-desktop-portal-kde-lang xembedsniproxy xsettingsd
+games kde kde_games kde_internet kde_multimedia kde_office kde_pim kde_plasma
+  kde_utilities kde_utilities_opt kde_yast x11 x11_enhanced
+
